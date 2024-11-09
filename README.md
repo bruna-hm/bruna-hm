@@ -11,7 +11,7 @@
 ## About Me: 
 
 <ul>
-  <li>31 anos;
+  <li>31 anos; São José dos Campos - SP;
   <li>Transição de Carreira
   <li>Estudante de ADS, FATEC-SJC;
   <li>Suporte Técnico;
