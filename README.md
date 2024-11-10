@@ -14,7 +14,7 @@
   <li>31 anos; São José dos Campos - SP;
   <li>Transição de Carreira
   <li>Estudante de ADS, FATEC-SJC;
-  <li>Suporte Técnico;
+  <li>Atualmente atuo como Suporte Técnico;
 </ul>
 
 ## Skills básicas(por enquanto):
