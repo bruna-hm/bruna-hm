@@ -37,6 +37,6 @@
 
 <center>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-hm&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-hm&show_icons=true&theme=tokyonight)
 
 </center>
