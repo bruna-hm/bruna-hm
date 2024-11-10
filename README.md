@@ -3,7 +3,7 @@
 <center>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-hayashi-matsunaga-1b4a71324)
-[![Website](https://img.shields.io/badge/Website-d17aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAW0lEQVR4nO3TSQ4AEBBEUfe/9HcAC1NLKfonEguLZyoly9o4PHwA0S0B6Mxndu0JiMzvEaIGROcLYOA4Z9b4Anav6W0A6itADRjJH4D6G6ICROUH4NC4H5D9VQULrlS6RiT5gwAAAABJRU5ErkJggg==)](https://portfolio-dun-pi-44.vercel.app)
+[![Website](https://img.shields.io/badge/Website-870033?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAW0lEQVR4nO3TSQ4AEBBEUfe/9HcAC1NLKfonEguLZyoly9o4PHwA0S0B6Mxndu0JiMzvEaIGROcLYOA4Z9b4Anav6W0A6itADRjJH4D6G6ICROUH4NC4H5D9VQULrlS6RiT5gwAAAABJRU5ErkJggg==)](https://portfolio-dun-pi-44.vercel.app)
 
 </center>
 
