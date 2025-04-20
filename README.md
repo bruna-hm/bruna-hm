@@ -17,7 +17,7 @@
   <li>em busca de novas oportunidades
 </ul>
 
-## Skills básicas(por enquanto):
+## Habilidades:
 <center>
 
 ![Python](https://img.shields.io/badge/Python-c9c9c9?style=for-the-badge&logo=python)
