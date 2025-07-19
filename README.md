@@ -3,7 +3,7 @@
 <center>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-hayashi-matsunaga-1b4a71324)
-[![Portfolio](https://brunahm.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-20B2AA?style=for-the-badge)](https://brunahm.vercel.app)
 
 </center>
 
